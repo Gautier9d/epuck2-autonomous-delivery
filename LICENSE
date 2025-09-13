@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2025 Gautier9d
+Copyright (c) 2024 Gautier DEMIERRE and Romain Nicolas Paul COUYOUMTZELIS
+École Polytechnique Fédérale de Lausanne (EPFL)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +20,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ACADEMIC INTEGRITY NOTICE:
+
+This software was developed as part of the Micro-315 Embedded Systems and
+Robotics course at EPFL. While this code is open source, students currently
+enrolled in the course should be aware that submitting this work as their own
+constitutes academic dishonesty. 
+
+Please refer to EPFL's academic integrity policies and your course guidelines
+regarding the use of external resources and collaboration.
